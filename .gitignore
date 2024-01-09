@@ -1,0 +1,42 @@
+# Ignore vendor directories
+/vendor/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment-specific files
+.env
+
+# Ignore compiled files
+*.log
+*.sql
+*.gz
+*.zip
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore user-specific files
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.user
+*.sln.docstates
+*.userprefs
+*.bak
+*.swp
+*.swo
+
+# Ignore composer's files
+composer.phar
+/vendor/
+/.composer/
+
+# Ignore node's files
+npm-debug.log
+yarn-error.log
