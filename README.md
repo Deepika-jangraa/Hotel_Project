@@ -31,7 +31,7 @@ Get started with the Venture Hotel Management System on your local environment b
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Deepika-jangraa/venture-hotel.git
+   git clone https://github.com/Deepika-jangraa/VentureHotel_Project.git
    
 Database Configuration:
 Create a two MySQL database and import the SQL files (learning.sql) and (user_db.sql) provided in the repository.
