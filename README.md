@@ -53,7 +53,7 @@ PHP Files: Various PHP files (pro.html, admin.php, login_form.php, customer_revi
 
 ## Result
 
-![Screenshot (864)](https://github.com/Deepika-jangraa/Hotel_Project/assets/135499747/9e25bb8b-54b2-44fd-a660-45fd7ce201c8)  ![Screenshot (865)](https://github.com/Deepika-jangraa/Hotel_Project/assets/135499747/2fcb4520-5df7-460b-87db-b1c12eacb92d)
+![Screenshot (864)](https://github.com/Deepika-jangraa/Hotel_Project/assets/135499747/056ffbd0-0477-4d7d-9157-6a1edd2163b6) ![Screenshot (865)](https://github.com/Deepika-jangraa/Hotel_Project/assets/135499747/2fcb4520-5df7-460b-87db-b1c12eacb92d)
 
 ![Screenshot (866)](https://github.com/Deepika-jangraa/Hotel_Project/assets/135499747/2ba790ec-7652-45a0-bdc9-56743245079f)  ![Screenshot (867)](https://github.com/Deepika-jangraa/Hotel_Project/assets/135499747/bacea503-72be-4ab1-a398-1267b9351bd0)
 
